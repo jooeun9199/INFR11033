@@ -4,7 +4,6 @@ This repository contains the code for the labs of Automatic Speech Recognition c
 
 Here are some explanations about the files in this repo.
 
-* `asr_lab1.ipynb` is the note file for lab1.
+* `asr_lab1.ipynb` is a notebook containing the exercises for Lab 1.
 * `helper_functions.py` contains two functions, `parse_lexicon()` and `generate_symbol_tables()`.
-* `lab1.pdf` is an old file explaining the basic usage of openfst in python.
-* `lexicon.txt` is the lexicon file for lab1.
+* `lexicon.txt` is a lexicon used in all labs
