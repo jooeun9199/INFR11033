@@ -4,6 +4,8 @@ This repository contains the code for the labs of Automatic Speech Recognition c
 
 Here are some explanations about the files in this repo.
 
-* `asr_lab1.ipynb` is a notebook containing the exercises for Lab 1.
-* `helper_functions.py` contains two functions, `parse_lexicon()` and `generate_symbol_tables()`.
+* `asr_lab1.ipynb` is a notebook containing the exercises for Lab 1
+* `helper_functions.py` contains two functions, `parse_lexicon()` and `generate_symbol_tables()`
 * `lexicon.txt` is a lexicon used in all labs
+
+For setup instructions, view the [Piazza post](https://piazza.com/class/ky4bimyglss6tm?cid=10)
