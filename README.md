@@ -7,5 +7,6 @@ Here are some explanations about the files in this repo.
 * `asr_lab1.ipynb` is a notebook containing the exercises for Lab 1
 * `helper_functions.py` contains two functions, `parse_lexicon()` and `generate_symbol_tables()`
 * `lexicon.txt` is a lexicon used in all labs
+* `lab1_template.py` is the submission template for lab1.
 
 For setup instructions, view the [Piazza post](https://piazza.com/class/ky4bimyglss6tm?cid=10)
