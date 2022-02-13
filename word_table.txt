@@ -1,0 +1,12 @@
+<eps>	0
+a	1
+cat	2
+of	3
+peck	4
+peppers	5
+peter	6
+picked	7
+pickled	8
+piper	9
+the	10
+where's	11
