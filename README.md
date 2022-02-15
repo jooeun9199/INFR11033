@@ -12,6 +12,7 @@ Here are some explanations about the files in this repo.
 * `lab1_template.py` is the submission template for lab1.
 
 * `asr_lab2.ipynb` is a notebook containing the exercises for Lab 2
+* `asr_lab2_solutions.ipynb` is a notebook containing the solutions for Lab 2
 
 * `asr_lab3.ipynb` is a notebook containing the exercises for Lab 3.
 * `observation_model.py` is the python file containing the observation_model that you need in Lab3.
