@@ -13,4 +13,7 @@ Here are some explanations about the files in this repo.
 
 * `asr_lab2.ipynb` is a notebook containing the exercises for Lab 2
 
+* `asr_lab3.ipynb` is a notebook containing the exercises for Lab 3.
+* `observation_model.py` is the python file containing the observation_model that you need in Lab3.
+
 For setup instructions, view the [Piazza post](https://piazza.com/class/ky4bimyglss6tm?cid=10)
