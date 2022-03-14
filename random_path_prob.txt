@@ -1,29 +1,27 @@
 p_1 <eps>
 p_1 <eps>
 p_1 <eps>
+p_1 <eps>
+p_1 <eps>
+p_2 <eps>
 p_2 <eps>
 p_3 <eps>
 eh_1 <eps>
-eh_1 <eps>
 eh_2 <eps>
 eh_2 <eps>
 eh_3 <eps>
-eh_3 <eps>
-eh_3 <eps>
-eh_3 <eps>
-p_1 <eps>
-p_1 <eps>
 p_1 <eps>
 p_1 <eps>
 p_2 <eps>
+p_3 <eps>
 p_3 <eps>
 er_1 <eps>
 er_2 <eps>
+er_2 <eps>
 er_3 <eps>
 z_1 <eps>
-z_1 <eps>
+z_2 <eps>
+z_2 <eps>
 z_2 <eps>
 z_3 <eps>
-z_3 <eps>
-z_3 <eps>
-31.51401428500001
+26.908844045000002
