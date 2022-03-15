@@ -21,5 +21,6 @@ Here are some explanations about the files in this repo.
 * `phonelist.txt` is the phone list in our `observation_model.py`. For instance, there is a phone `aa` in `phonelist.txt`, so `"aa_1"` is a valid `hmm_label` when calling `my_om.log_observation_probability(hmm_label, t)`.
 
 * `asr_lab5.ipynb` is a notebook containing the exercises for Lab 5
+* `asr_lab5_solutions.ipynb` is a notebook containing the solutions for Lab 5
 
 For setup instructions, view the [Piazza post](https://piazza.com/class/ky4bimyglss6tm?cid=10)
